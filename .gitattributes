@@ -1,0 +1,5 @@
+# Mantener saltos de línea LF en los archivos de texto.
+* text=auto eol=lf
+
+# Conservar las imágenes como archivos binarios.
+*.png binary
